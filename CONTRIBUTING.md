@@ -79,11 +79,23 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 - Python 3+
 - Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) Style Guide for Python Code.
-- Follow the Python Naming Conventions so variable_names and function_names should be `snake_case`, CONSTANTS in `UPPERCASE`, and ClassNames should be `CamelCase`.
+- Follow the [Python Naming Conventions](https://peps.python.org/pep-0008/#naming-conventions) so variable_names and function_names should be `snake_case`, CONSTANTS in `UPPERCASE`, and ClassNames should be `CamelCase`.
 - Have a clean commit history. Ideally following the [angular commit message convention](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#type)
 and including the problem being worked on in parenthesis. Look at our [commit history](https://github.com/careercup/TheArtofPython/commits/master) for more examples.
 - Maintain the following directory structure with your submissions:
 - **Plagiarism** is strictly not allowed. Any work that is found to be suspicious of plagiarized work will not be merged.
+- Please follow Chris Beam's seven rules for writing a good commit messages:
+  - Separate subject from body with a blank line.
+  - Limit the subject line to 50 characters.
+  - Capitalize the subject line.
+  - Do not end the subject line with a period.
+  - Use the imperative mood in the subject line.
+  - Wrap the body at 72 characters.
+  - Use the body to explain what and why versus how.
+
+For examples and additional explanation of these seven rules, please read [Chris Beam's blog post](https://cbea.ms/git-commit/).
+
+
 
 ## Directory Structure 
 Our content is divided by programming category. Please create an issue if you wish to add code in a category that we don't currently have here.

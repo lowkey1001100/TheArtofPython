@@ -20,6 +20,30 @@ To navigate our codebase with confidence, see [the introduction to working in th
 Some of them don't even require writing a single line of code :sparkles:.
 
 
+## Issues
+
+If you spot a problem with the docs, search if an issue already exists. If a related issue doesn't exist, you can open a new issue using a relevant issue form.
+
+
+## Bug Reporting 
+
+We encourage people to report bugs. Please read [How to Submit a Good Bug Report](https://github.com/theopensourceway/guidebook/blob/main/bug_report.adoc) before submitting your report. The most important advice from there is: 1) do as thorough a search as you can to see whether the bug has already been reported, and 2) be as precise and complete as you can when reporting a new bug.
+To report a bug:
+
+1. Go to the appropriate project.
+2. Click the Issues button on the left of the window.
+3. Click the "New issue" button.
+4. Fill out the Title and Description. You don't need to fill out the other fields. (Shall we encourage readers to use the Label field?)
+
+
+## Reporting security flaws
+If you find a flaw in our project that can hurt users or provide unauthorized access, please contact our maintainer privately, as follows.
+Chat channel:
+Contact: @
+See [SECURITY.md]() for more information on security.
+
+✨ Look at our commit history for more examples: We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.
+
 
 ## Project Work Flow 
 
@@ -84,33 +108,6 @@ TheArtofPython/
 |─ README.md
 
 ```
-
-
-## Issues
-
-If you spot a problem with the docs, search if an issue already exists. If a related issue doesn't exist, you can open a new issue using a relevant issue form.
-
-
-## Bug Reporting 
-
-We encourage people to report bugs. Please read [How to Submit a Good Bug Report](https://github.com/theopensourceway/guidebook/blob/main/bug_report.adoc) before submitting your report. The most important advice from there is: 1) do as thorough a search as you can to see whether the bug has already been reported, and 2) be as precise and complete as you can when reporting a new bug.
-To report a bug:
-
-1. Go to the appropriate project.
-2. Click the Issues button on the left of the window.
-3. Click the "New issue" button.
-4. Fill out the Title and Description. You don't need to fill out the other fields. (Shall we encourage readers to use the Label field?)
-
-
-
-## Reporting security flaws
-If you find a flaw in our project that can hurt users or provide unauthorized access, please contact our maintainer privately, as follows.
-Chat channel:
-Contact: @
-See [SECURITY.md]() for more information on security.
-
-✨ Look at our commit history for more examples: We'll still work with your contributions even if they don't follow these guidelines so don't let that stop you.
-
 
 ## Testing 
 

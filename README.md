@@ -2,12 +2,12 @@
 
 # The Art of Python 天
 
-![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&labelColor=grey&label=Built%20with&style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/TheArtofPython?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/seraph776/TheArtofPython?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/seraph776/TheArtofPython?color=blue&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/TheArtofPython?color=yellow&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/seraph776/TheArtofPython?style=for-the-badge)
+![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&label=Built%20with&style=for-the-badge&labelColor=grey)
+![GitHub Repo stars](https://img.shields.io/github/stars/seraph776/TheArtofPython?color=yellow&style=for-the-badge&labelColor=grey&label=stars)
+![GitHub forks](https://img.shields.io/github/forks/seraph776/TheArtofPython?color=green&style=for-the-badge&labelColor=grey&label=folksb)
+![GitHub contributors](https://img.shields.io/github/contributors/seraph776/TheArtofPython?color=brightgreen&style=for-the-badge&labelColor=grey&label=Contributors)
+![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/TheArtofPython?color=red&style=for-the-badge&labelColor=grey&label=issues)
+![GitHub](https://img.shields.io/github/license/seraph776/TheArtofPython?color=blue&style=for-the-badge&labelColor=grey&label=License)
 
 ![image](https://user-images.githubusercontent.com/72005563/183312391-25bd2c58-a186-45bd-8441-85e258b1c62c.png)
 

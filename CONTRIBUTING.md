@@ -110,8 +110,8 @@ TheArtofPython/
 |_ DataStructures/
 |_ EthicalHacking/
 |_ MachineLearning
-|_ PyGame/
-|_ WebScrapping/
+|_ Games/
+|_ WebScraping/
 |
 |─ CODE-OF_CONDUCT.md
 |─ CONTRIBUTING.md
